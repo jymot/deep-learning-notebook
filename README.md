@@ -1,2 +1,2 @@
-# deep-leaning-notebook
-notebook
+# deep-learning-notebook
+deep learning notebook
